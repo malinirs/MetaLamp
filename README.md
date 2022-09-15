@@ -7,8 +7,10 @@ Folder names correspond to job names.
 Below is a report on the completed training.
 
 
-13.09.2022 Task 1. Study of layout.
+13.09.2022 
+Task 1. Study of layout.
 Learning HTML on the course https://stepik.org/course/38218/syllabus?auth=login. First homework done. Written page from Wikipedia - Houston.
 
-15.09.2022 Task 1. Study of layout.
+15.09.2022 
+Task 1. Study of layout.
 The same course. Performed css styling of the HTML page from the previous task.
